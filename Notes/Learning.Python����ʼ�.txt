@@ -1,0 +1,13 @@
+Learning Python (3rd edition) - 学习Python读书笔记
+Yi Wei
+Oct.25.2010
+
+Part 1. Getting Started
+
+1. 最简单的读取用户输入的方法：raw_input()
+
+2. import与reload的区别
+
+3. 如何理解Attributes的概念
+
+4. import myfile与from myfile import title的显著区别
